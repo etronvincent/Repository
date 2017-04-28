@@ -1,0 +1,1 @@
+robocopy F:\ E:\ /e /xa:sh /MT:100
