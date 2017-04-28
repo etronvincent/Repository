@@ -1,0 +1,10 @@
+Chen;Vincent;;;password;z:\User_id\;VincentChenEtron;;;VincentChen;;;;;;Vincent.Chen@etron.com.tw;Vincent.Chen;³¯¥Ã¿þ
+Chen;Vivian;;;password;z:\User_id\;VivianChenEtron;;;VivianChen;;;;;;Vivian.Chen@etron.com.tw;Vivian.Chen;³¯Ú{´¸
+Dai;MJ;;;password;z:\User_id\;MJDaiEtron;;;MJDai;;;;;;MJ.Dai@etron.com.tw;MJ.Dai;À¹©ú³Ç
+Song;CY;;;password;z:\User_id\;CYSongEtron;;;CYSong;;;;;;CY.Song@etron.com.tw;CY.Song;§ºµ{µx
+Chang;Alina;;;password;z:\User_id\;AlinaChangEtron;;;AlinaChang;;;;;;Alina.Chang@etron.com.tw;Alina.Chang;±i¶®´Ù
+Chou;Arder;;;password;z:\User_id\;ArderChouEtron;;;ArderChou;;;;;;Arder.Chou@etron.com.tw;Arder.Chou;©P¬F¼w
+Huang;Arvin;;;password;z:\User_id\;ArvinHuangEtron;;;ArvinHuang;;;;;;Arvin.Huang@etron.com.tw;Arvin.Huang;¶À«Ø¤t
+Kuo;HC;;;password;z:\User_id\;HCKuoEtron;;;HCKuo;;;;;;HC.Kuo@etron.com.tw;HC.Kuo;³¢¬Ó§Ó
+Lin;Kratos;;;password;z:\User_id\;KratosLinEtron;;;KratosLin;;;;;;Kratos.Lin@etron.com.tw;Kratos.Lin;ªL­Z¿³
+Teng;Johnny;;;password;z:\User_id\;JohnnyTengEtron;;;JohnnyTeng;;;;;;Johnny.Teng@etron.com.tw;Johnny.Teng;¾H©vÀM
