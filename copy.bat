@@ -1,1 +1,1 @@
-robocopy F:\ E:\ /e /xa:sh /MT:100
+robocopy F:\ G:\ /e /xa:sh /MT:100

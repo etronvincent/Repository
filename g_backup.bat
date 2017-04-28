@@ -1,0 +1,1 @@
+robocopy G:\2F_Fax_5778671\Sophia D:\data_backup\Sophia /MIR /COPYALL /XO
