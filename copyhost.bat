@@ -1,0 +1,1 @@
+xcopy d:\hosts "C:\Windows\System32\drivers\etc\hosts" /Y
